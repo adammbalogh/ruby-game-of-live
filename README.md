@@ -6,3 +6,17 @@
 # Description
 
 This is just a learning project for fun with Ruby.
+
+![game-of-live](http://i.imgur.com/vE7X9Ci.gif)
+
+# Run
+
+*from the root of the project*
+
+```ruby main.rb```
+
+# Run tests
+
+*from the root of the project*
+
+```ruby tests.rb -v -c```
